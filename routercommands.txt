@@ -1,0 +1,4 @@
+show ip interface brief
+show route
+show bgp summary
+show ospf summary

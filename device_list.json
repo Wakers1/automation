@@ -1,0 +1,26 @@
+[
+  {
+    "ip": "10.213.117.1",
+    "device_type": "cisco_xr"
+  },
+   {
+     "ip": "10.213.117.11",
+     "device_type": "cisco_xr"
+   },
+   {
+     "ip": "10.213.117.3",
+     "device_type": "cisco_xr"
+   },
+   {
+     "ip": "10.213.117.4",
+     "device_type": "cisco_xr"
+   },
+   {
+     "ip": "10.213.117.6",
+     "device_type": "cisco_xr"
+   },
+   {
+     "ip": "10.213.117.7",
+     "device_type": "cisco_xr"
+   }
+]
